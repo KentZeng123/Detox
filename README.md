@@ -21,4 +21,4 @@ The main focus for Detox was to prevent cyberbullying, but we want to do more th
 Overall, however much we expand Detox and it's setting, our main goal is to create a safe and healthy environment while browsing the web.
 
 # Who, Where, When?
-This project took place at University of Washington's Dubhacks 2019 from November 12-13. Our team members are Kent Zeng, Allen Su, Evan Hao, and Frank Hou.
+This project took place at University of Washington's Dubhacks 2019 from October 12-13. Our team members are Kent Zeng, Allen Su, Evan Hao, and Frank Hou.
